@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "2869256a89f1013125bbce5fc62265e47012ad09fd3b2cc53f37919bc3c8a042"
+hash = "736dbe1ea51b7798b21045657291f02b530875fd94b98c084de4acedc9999f2b"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "972e7c2cded29f4be987b6f3f4def1b5710437987c1e16e0fef37783c40cbfb3"
+hash = "c2317ffb6d37f76682c2bb957eb37548ddefb340529479cf08a0704144433e77"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "88de9e0b66391586d0764e8fcca14bf6850a99ea030027bbf7946dafefcd0d5a"
+hash = "1da259efe44c59b295ce121e4a5779a8de5b893de673db071fd8b5132d09a022"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/draconic-evolution.pw.toml"
-hash = "810726ae9a15f7393c92602ad7cc27614cb08d951c337c06a567f16dc1b3cfa9"
+hash = "207aed7f36f7cff25ba7d3de546b3351b6e3cfaed26ef3c5b14aeca6f419285d"
 metafile = true
 
 [[files]]
