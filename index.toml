@@ -191,11 +191,6 @@ hash = "14a5faf8749788db3e05fd232955ce9d7f7c32c44254dd5e73fae853cd12e512"
 metafile = true
 
 [[files]]
-file = "mods/dragon-mounts-legacy.pw.toml"
-hash = "65c56d003dda6e2c6561edb31e058249d186bc220711ba8874cadfe67a365fe8"
-metafile = true
-
-[[files]]
 file = "mods/draw-bridge.pw.toml"
 hash = "c52b970f9a3d90e1a00deb4dd160a3bb5cd0a10f2dd66c938e90621e58ac4d0f"
 metafile = true
