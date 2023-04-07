@@ -1,0 +1,13 @@
+name = "Tensura Mod  -That Time I Got Reincarnated as a Slime"
+filename = "TTIGRAAS_BETA_v.1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16d74b64dd89ace7a9c47588f38995cad1df051d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3475520
+project-id = 373693

@@ -1,0 +1,13 @@
+name = "ThreeCore"
+filename = "ThreeCore-1.16.5-3.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "570d3f7dd9e8f0f5e71c0a002e3886ece24a45ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3278464
+project-id = 349285

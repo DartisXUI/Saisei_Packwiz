@@ -1,0 +1,13 @@
+name = "SAO+"
+filename = "SAO+ 0.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1d7c6c19abd9020f5e0682d99ea5708e53795a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3537920
+project-id = 547684

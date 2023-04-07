@@ -1,0 +1,13 @@
+name = "VanillaFoodPantry Mod [FORGE]"
+filename = "vanillafoodpantry-mc1.16.5-6.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "837e4fbe1d974add796a39d10c9ee0e3e79ca89c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3441203
+project-id = 238170
