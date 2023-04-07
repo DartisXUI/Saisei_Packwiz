@@ -61,6 +61,16 @@ hash = "83dd1ce64df9a012930da1ff2d80cc4f2a68af72ec570f3232caf54d25858d46"
 metafile = true
 
 [[files]]
+file = "mods/basic-end-ores.pw.toml"
+hash = "19c0c5d4c3dd13a0541bd279ddc832e47f860692d496126a697b94a87d17b607"
+metafile = true
+
+[[files]]
+file = "mods/basic-nether-ores.pw.toml"
+hash = "23ca4aaa30896381da5d572179a0d0249b86cb34e426b9ebe7d4c1e7b7f34b7d"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "8f28716ece15f4eef1318e9134ed2356c7adf986a65a6c702a0c994a669444bd"
 metafile = true
@@ -628,11 +638,6 @@ metafile = true
 [[files]]
 file = "mods/tensura-mod-that-time-i-got-reincarnated-as-a-slime.pw.toml"
 hash = "09ada1b3cf8e8d94569e87627abeb14d55f1d6f7357eca0447feb3b020272cc9"
-metafile = true
-
-[[files]]
-file = "mods/terran-expansion.pw.toml"
-hash = "0ee3b4c75407bb526774f9c10e990c8587617027221521f9c4e501d422ba947b"
 metafile = true
 
 [[files]]
