@@ -1,0 +1,13 @@
+name = "Draw Bridge"
+filename = "draw_bridge-1.16.5-1.6.1.27.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78b4064df5e8b075128fcf7d86754b52f2fb4a2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4048875
+project-id = 306058
