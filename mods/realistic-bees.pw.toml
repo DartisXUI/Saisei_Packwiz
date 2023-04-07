@@ -1,0 +1,13 @@
+name = "Realistic Bees"
+filename = "realisticbees_1.16.5-2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9b561a50782067c27d025c39a03555959109a15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4021713
+project-id = 410743

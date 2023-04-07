@@ -1,0 +1,13 @@
+name = "SimpleRPG"
+filename = "SimpleRPG -0.02.zip"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "2604334665"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3364599
+project-id = 497255

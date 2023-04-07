@@ -1,0 +1,13 @@
+name = "Terran Expansion"
+filename = "terran-expansion-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd983cc158e0523b5524392ec9116e699310944a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3140421
+project-id = 413971
