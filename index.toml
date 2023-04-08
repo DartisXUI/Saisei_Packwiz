@@ -11,11 +11,6 @@ hash = "e0dae19b7a902a4f7ce06697ae539d65625f4c2d1854e169c66da2be0c6e0416"
 metafile = true
 
 [[files]]
-file = "mods/aeinfinitybooster.pw.toml"
-hash = "362615ebf4ed9551b5c03399af3b8eef7af9d08c6677cb1ec35218a4fba5ec19"
-metafile = true
-
-[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "efe039eba90428ac7e10eb3fb19390f8869fcdedcd861a50b99b7c5f01a777f9"
 metafile = true
@@ -28,16 +23,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0d210e83c7140eafbbd0366b257a256b9ce42eab8d9d729efa3a41bf1ba9723b"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2-wireless-terminals-forge.pw.toml"
-hash = "8b5d49d39992b64c6c04462c31098e20df598c00b3ce12e020f0b84c4df231f8"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "1c0b0019300b6e06e87249b0f8843dbc6a0ed19e0c679320c69dda9775b7740f"
 metafile = true
 
 [[files]]
@@ -73,11 +58,6 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "8f28716ece15f4eef1318e9134ed2356c7adf986a65a6c702a0c994a669444bd"
-metafile = true
-
-[[files]]
-file = "mods/brandons-core.pw.toml"
-hash = "be54c9fa4c167693d9937b652602ba3d8481af053d759915d8b211fbcfc76c61"
 metafile = true
 
 [[files]]
@@ -181,16 +161,6 @@ hash = "caa23ca2f7ab8da0769d5b7ce1716a75183b2771e7f167007ac545bbf00e92b2"
 metafile = true
 
 [[files]]
-file = "mods/draconic-evolution.pw.toml"
-hash = "207aed7f36f7cff25ba7d3de546b3351b6e3cfaed26ef3c5b14aeca6f419285d"
-metafile = true
-
-[[files]]
-file = "mods/draconicadditions.pw.toml"
-hash = "14a5faf8749788db3e05fd232955ce9d7f7c32c44254dd5e73fae853cd12e512"
-metafile = true
-
-[[files]]
 file = "mods/draw-bridge.pw.toml"
 hash = "c52b970f9a3d90e1a00deb4dd160a3bb5cd0a10f2dd66c938e90621e58ac4d0f"
 metafile = true
@@ -233,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "37b9b71a2ae4d1cae29c27830bbe809c36601f066f48fb71d822f98ad82d0c1e"
-metafile = true
-
-[[files]]
-file = "mods/flux-networks.pw.toml"
-hash = "f4b43ce6cf35611f0b6669a92b58986f8d39dca31b947782a3885d4512a6cab1"
 metafile = true
 
 [[files]]
@@ -286,11 +251,6 @@ hash = "cbcf77694c822a81329e43413cc94e317701cb036068e4f6df6668ce2f3bfb6d"
 metafile = true
 
 [[files]]
-file = "mods/iap-industrial-foregoing.pw.toml"
-hash = "ecf3b9139c84f52d65d192b7ae711eb1494ee50ebd5b50cf5cb562bc50f2676e"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "da8427f8dbe0bcc6f2dd87c7068874f5b37043ccfa2af5b0167c72fa288150da"
 metafile = true
@@ -298,16 +258,6 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "66db052a77a41fb26a42ae5803d56a484ee4cae7f0a32561ec43c2afd2e84f13"
-metafile = true
-
-[[files]]
-file = "mods/industrial-agriculture.pw.toml"
-hash = "221bf3cb106fc5d159761024754e67bb9b87a4746c4554f55f8a73300e35ec57"
-metafile = true
-
-[[files]]
-file = "mods/industrial-foregoing.pw.toml"
-hash = "4ecaac41a9bbd6de77a8f843b50951e72a3de05fd4d5d7922cf331c264744a2a"
 metafile = true
 
 [[files]]
@@ -323,11 +273,6 @@ metafile = true
 [[files]]
 file = "mods/iron-furnaces.pw.toml"
 hash = "0301fe66e8b886c9c3ff14cbd0cc23d86787daebdc4c3d0ac6b447c4ecc6703f"
-metafile = true
-
-[[files]]
-file = "mods/item-collectors.pw.toml"
-hash = "86e4cf1277cccf536cf09d3c393a74043c28addfa42440e5ab875aca6239c5cc"
 metafile = true
 
 [[files]]
@@ -371,18 +316,8 @@ hash = "eb73176b93a6a54e5ea869d02236eb750ed36bc5a8cd052ab5032f7f8e25857f"
 metafile = true
 
 [[files]]
-file = "mods/lazierae2.pw.toml"
-hash = "25447172e0546ef54de9ea6a0ad650d2a888499f95546161f804d776b9f900f8"
-metafile = true
-
-[[files]]
 file = "mods/libx.pw.toml"
 hash = "1b8d63d8a0062dc9fcccc500c7c1295f84df418f98efcf098bbf3757ee9ffb98"
-metafile = true
-
-[[files]]
-file = "mods/loot-beams.pw.toml"
-hash = "03c8b2e25e8b1e583029ae84ed4fb68b6cf432c86c0224b17b2f45f2b03bc4e5"
 metafile = true
 
 [[files]]
@@ -571,11 +506,6 @@ hash = "ba6d6368d3c07954bb4a47ef83c21e246598c7f94812e5bdbf71f14d32b9c043"
 metafile = true
 
 [[files]]
-file = "mods/rftools-builder.pw.toml"
-hash = "a43ae0339aae015f86b2eb63eabafcf9eab37932501c9008475606957d7188e0"
-metafile = true
-
-[[files]]
 file = "mods/rftools-power.pw.toml"
 hash = "58f5c642b3bc3055c7f5e8f6c2a787089df063cc6d83ce2e24375610b2f37e07"
 metafile = true
@@ -608,21 +538,6 @@ metafile = true
 [[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "c1f256449f8b26e46de35df2c38a9a16a77d57785f975b05970a795e8ad88523"
-metafile = true
-
-[[files]]
-file = "mods/super-factory-manager.pw.toml"
-hash = "a039dbcd86319896e9d9b5cac63c0e54c5b3f0e800cda04d0b61518d1d7090c2"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "0e06e76388505e02e24407418d757d752578c680a14a4903f7e9e7f7bfad3ea0"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "4724991596b11c85c609062979bc3933be53057cf6afcfa7eca8eecc7ba0c1cd"
 metafile = true
 
 [[files]]
@@ -718,11 +633,6 @@ metafile = true
 [[files]]
 file = "mods/woot.pw.toml"
 hash = "c269243beee2b46cc7ed521c28a7d9f3a768795658915a4700c390440b3f03d1"
-metafile = true
-
-[[files]]
-file = "mods/xnet.pw.toml"
-hash = "6ceb528434d767892cba0a3fcc0c4228eaf212b0f80ef633d6ae9308005f5a5a"
 metafile = true
 
 [[files]]
