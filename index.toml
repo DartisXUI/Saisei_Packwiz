@@ -351,11 +351,6 @@ hash = "2a55fed384c639eaf139049a31ca3378e9a971a56053fc25cc1ef071ded7add7"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "aab4792582ae57838156596ae59c9732454416c9550bbcd6bb40fcb14be8d851"
-metafile = true
-
-[[files]]
 file = "mods/morph.pw.toml"
 hash = "126e8d03158d964fa2f2954c8b47341213a0f154e505b7d0cc3f62c9b4e91261"
 metafile = true
@@ -408,11 +403,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "adfaa4397b987d1589056f24fbe6c80d79c56a2a828d151c5a927c60d79a920a"
-metafile = true
-
-[[files]]
-file = "mods/performant.pw.toml"
-hash = "e0a208c18ed9ef53bf4c2d17e84798ea15822e2784b09b99ed2e556cff21d789"
 metafile = true
 
 [[files]]
