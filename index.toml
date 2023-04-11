@@ -191,16 +191,6 @@ hash = "7784bbe87c156cdc99cce7ea79cc2d7d96580f716848e33ab215a31351625a61"
 metafile = true
 
 [[files]]
-file = "mods/fastfurnace.pw.toml"
-hash = "ddf78c2dd4e3cfde08d9f27c7bf67456c7b549019f9a98ec504217441e89475f"
-metafile = true
-
-[[files]]
-file = "mods/fastworkbench.pw.toml"
-hash = "fb20bbe40ab9e760c5c60e8ddda08a525ed905aca4a45da4766e70a578a74901"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "37b9b71a2ae4d1cae29c27830bbe809c36601f066f48fb71d822f98ad82d0c1e"
 metafile = true
@@ -351,6 +341,11 @@ hash = "2a55fed384c639eaf139049a31ca3378e9a971a56053fc25cc1ef071ded7add7"
 metafile = true
 
 [[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "aab4792582ae57838156596ae59c9732454416c9550bbcd6bb40fcb14be8d851"
+metafile = true
+
+[[files]]
 file = "mods/morph.pw.toml"
 hash = "126e8d03158d964fa2f2954c8b47341213a0f154e505b7d0cc3f62c9b4e91261"
 metafile = true
@@ -373,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "c7c75962254111faa0101af9c96a72fc9807a1082fc7190e0c1df3a5f3573538"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "93d9d65d11722a0a636670c01b11e25db92fc17b233686a50f7ccfac6aae2514"
 metafile = true
 
 [[files]]
@@ -401,13 +401,13 @@ hash = "adfaa4397b987d1589056f24fbe6c80d79c56a2a828d151c5a927c60d79a920a"
 metafile = true
 
 [[files]]
-file = "mods/pipez.pw.toml"
-hash = "e10b8b1700c4c94c4ae3ebf2042bf5dbb85d45cb23ff8e46da001ed27114a553"
+file = "mods/performant.pw.toml"
+hash = "e0a208c18ed9ef53bf4c2d17e84798ea15822e2784b09b99ed2e556cff21d789"
 metafile = true
 
 [[files]]
-file = "mods/placebo.pw.toml"
-hash = "b4948e0b0f5f2a052b15b0439c9948a56d9b9ff254d67c0aa0b34c48d54031c9"
+file = "mods/pipez.pw.toml"
+hash = "e10b8b1700c4c94c4ae3ebf2042bf5dbb85d45cb23ff8e46da001ed27114a553"
 metafile = true
 
 [[files]]
