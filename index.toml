@@ -376,11 +376,6 @@ hash = "c7c75962254111faa0101af9c96a72fc9807a1082fc7190e0c1df3a5f3573538"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-crashes-forge.pw.toml"
-hash = "93d9d65d11722a0a636670c01b11e25db92fc17b233686a50f7ccfac6aae2514"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-wands.pw.toml"
 hash = "7b38ec4cb96a641b6eac4b9158bb75360594823c970d231a51cd0fc236dc9c73"
 metafile = true
