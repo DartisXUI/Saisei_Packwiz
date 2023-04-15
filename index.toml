@@ -616,11 +616,6 @@ hash = "4931c4e65980ea1a95a61b35b18e7e893d59befce9c0764c387aa7773c44b15f"
 metafile = true
 
 [[files]]
-file = "mods/woot.pw.toml"
-hash = "c269243beee2b46cc7ed521c28a7d9f3a768795658915a4700c390440b3f03d1"
-metafile = true
-
-[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d3631df0e5d46e75045a781efe2eda7ccbadc70c775dea298f6f5516e4f4dd74"
 metafile = true
