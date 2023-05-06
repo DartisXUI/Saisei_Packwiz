@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "7badde09f48993750c8f336919f228297f2a2c87a7dff1e941568b3c50ccd35f"
+hash = "3ef39814eff961d73203456044854e801f8f1f3447bdf5b6fa3c1c26d234ce18"
 metafile = true
 
 [[files]]
@@ -422,27 +422,27 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "f0096834bab698cb83075f5783e54ab0c7be9de956f6bcb4a149ecbc98a78d9d"
+hash = "51f66c067bd28926f847f695da855f6657c08221c2981bad8b99d3937d4d2663"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "72bef48e7166bf86077c02c0365fc03a3647589f6837ce12960b6883c4ca289c"
+hash = "56eece6f273f8c12fb57a248dc4c892fcff751cd8628c986a4d22aabd1b73b07"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "38d31221846018407cd35857a34a5c7231c4856b6ba571b0abf4543054f06f5a"
+hash = "f6148e1a6c5b2401ff44d9992599b935099ad84d7dd5fd3a7249bfc2c2eda60a"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "0a9920f08c9095c1d265003ef5fad7560d9aedf2a19638b2a9e00ed8d4d8460b"
+hash = "e79f2b91086276fbb2ef7fb8d1d5c6697aeda045b9f64e7a78bbf9f470841a41"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "fd1c41721fe6834a55f59edba2ee48fb9d09ca8019be65bf133aa4d73bf432d6"
+hash = "e864548f53d675311d4910253a9b84bafd3b62a25e98eceeaf10618dc22328e8"
 metafile = true
 
 [[files]]
