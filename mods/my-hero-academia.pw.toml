@@ -1,13 +1,13 @@
 name = "My Hero Academia"
-filename = "My Server Academia - 1.16.5 - 1.0.5.jar"
+filename = "My Hero Academia - 1.16.5 - 1.0.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "226aa5a9f597045cf75338c0bf77f2bfb5651631"
+hash = "bdaf440794c104c14aef3da2d89e0208c4a6d84a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3469859
+file-id = 3479475
 project-id = 361529

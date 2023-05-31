@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-backups-forge.pw.toml"
-hash = "8f3c14016ffae4831a5c0eb21dc79f172a8237a06b22dccba070366eeab611b7"
+hash = "d6503b1db6e58f218471c352bd493285b832dc9d6288ee7e44a59f320f9ed712"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-dragon-eggs.pw.toml"
-hash = "2f07a7a7bbab7c8d7d50f421f3a66270fde85bb7690672a3a5000e1aa9ffa5af"
+hash = "2a55fed384c639eaf139049a31ca3378e9a971a56053fc25cc1ef071ded7add7"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-hero-academia.pw.toml"
-hash = "28e20170014d4fe09cd85965c6c7889f9082a294422ebb4a38d38e748aeb5937"
+hash = "01d6b283929766257f38419989492c2cbb49d9b3c79797afa0ce0b377d848108"
 metafile = true
 
 [[files]]
