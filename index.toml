@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "c2317ffb6d37f76682c2bb957eb37548ddefb340529479cf08a0704144433e77"
+hash = "3f5c0d84f67b02edffff4e4644d7cd5304d0be641c3bf6735ca9a8520a9e071f"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "4f081f284629f997a2f855eee5e37e0c9cc136cc0bce7f4cfd7778f7598a6791"
+hash = "6f5ea2eefd04825c729e93f8ee1dacc223b1d5a59218e0f3d0c9515a8323278a"
 metafile = true
 
 [[files]]
@@ -422,27 +422,27 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "b1dbbbb5c4535f8d843ac4a8e8b2adcfea6551658c8100de2f25825db44ce1f1"
+hash = "bc0d8ab981bbeb16d84894a053a0e69437b6295b96a6fecbca68f7c71809a373"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "3e9ff547dcb90bf9da54963ad3a6d79d0ad181d92d077852597df91c39c40e88"
+hash = "dfa9022c7d3d2719862128f7c037efa6f2ceea7cbf06ec00f59b851cc0ca7399"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "3ffc6c0e74a4a547d6d2b0d8debe4e584cb0f97378a7789915abeafffd0958e1"
+hash = "b5275c681cffa83d2a2275ed12c84759cd94626227f24e7618a42230d1e0e931"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "0c3045b8031980064b09bda324db4753a72015c127c554e094e66d4b87f0f8ba"
+hash = "64405c68676b7c986eb6d2e4e9e78997b16a42f8b2fb3c8430fb571f28261de3"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "e5e609b8857befef0568c8f3230d16117a8284f87a055e2d0a3c99042f33c6e0"
+hash = "2ee5419229eebaef07834e23b3bab91edead9f5b8d941c590de8abdd135ba36c"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/u-team-core.pw.toml"
-hash = "c62458c904e24c2d653eeb0053da91fbab7390e8c98c329c126fb75924f30d36"
+hash = "b3047288ef6f2e5a37ea70ba27d388cf22db535edb1901aee19f322b1f67e9e7"
 metafile = true
 
 [[files]]
