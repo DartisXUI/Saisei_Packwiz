@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "0d210e83c7140eafbbd0366b257a256b9ce42eab8d9d729efa3a41bf1ba9723b"
+hash = "1e7d9b9a774ad5979818555362dbdf8b2600317c036a0995024ee24d719e34e0"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "a44f6749937e549bd6c1252a6f25ed96df34a0a9d61ae65d80108ed1a3e48c33"
+hash = "b7ee03b2f985666e12b31e4ec8d0ec18d668821287bce6a489f0ba7402747726"
 metafile = true
 
 [[files]]
