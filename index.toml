@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "b7ee03b2f985666e12b31e4ec8d0ec18d668821287bce6a489f0ba7402747726"
+hash = "ccc7d4e7cdfcb403decafda8484fa50c95e60658156815898478417eb2a7b255"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "5117466a8047ccafae0fbbdf83f461bf0cec9747610f8327aae183895cdc6d2f"
+hash = "435c9a3f01e5b7669eea3ad8b560922d8525d50ad6b437d8914d8e293a67bf61"
 metafile = true
 
 [[files]]
