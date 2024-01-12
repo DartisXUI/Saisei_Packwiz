@@ -236,6 +236,11 @@ hash = "f1785b6fb4b3bd26594e173737a653a237f9e9e9c0d330faa56bdf0225217d75"
 metafile = true
 
 [[files]]
+file = "mods/global-gamerules.pw.toml"
+hash = "ab43cecc447e6f572d5c7ee0df2ebd2520695c1fef45d2be6748ffd5560c9991"
+metafile = true
+
+[[files]]
 file = "mods/hats.pw.toml"
 hash = "cbcf77694c822a81329e43413cc94e317701cb036068e4f6df6668ce2f3bfb6d"
 metafile = true
