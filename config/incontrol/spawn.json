@@ -1,0 +1,10 @@
+[{
+    "dimension": "minecraft:overworld",
+    "mod": "mha",
+    "mincount": {
+      "amount": 2,
+      "mod": "mha",
+      "perchunk": true
+    },
+    "result": "deny"
+  }]
