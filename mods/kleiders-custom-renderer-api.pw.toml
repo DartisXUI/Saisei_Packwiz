@@ -1,0 +1,13 @@
+name = "Kleiders Custom Renderer API"
+filename = "Kleiders Custom Renderer API 5.4.0 1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99d22977d54dbceeb8cb620b8b6c22248d2ae737"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4478424
+project-id = 682065

@@ -1,0 +1,13 @@
+name = "AnimeInventoryPets Mod"
+filename = "AnimeInventoryPets Mod [1.16.5].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "694d1e81ffbffaa81562331e2a600cbc2ee8abee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3370024
+project-id = 499195

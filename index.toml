@@ -20,8 +20,8 @@ hash = "efe039eba90428ac7e10eb3fb19390f8869fcdedcd861a50b99b7c5f01a777f9"
 metafile = true
 
 [[files]]
-file = "mods/anime-pets.pw.toml"
-hash = "a8d44ad6b82dc12d0438e1cbe660f572dce78f8a8bf3168b2d9ceb56a8b7ac70"
+file = "mods/animeinventorypets-mod.pw.toml"
+hash = "274e81673968903c4bbe3376afa9ce2911ecf92f7edea30ad67c066faa7c43fd"
 metafile = true
 
 [[files]]
@@ -62,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "8f28716ece15f4eef1318e9134ed2356c7adf986a65a6c702a0c994a669444bd"
+metafile = true
+
+[[files]]
+file = "mods/capsule.pw.toml"
+hash = "46de7b6ab21e993368ca162241a96dc7a05e9968326027e1fae207b2edc731c3"
 metafile = true
 
 [[files]]
@@ -165,6 +170,16 @@ hash = "caa23ca2f7ab8da0769d5b7ce1716a75183b2771e7f167007ac545bbf00e92b2"
 metafile = true
 
 [[files]]
+file = "mods/dragon-ball-mod-1-16-5.pw.toml"
+hash = "5317eef6af0cfe61802242cc24d00956c7da30c62a1e5042df3972c56303cf96"
+metafile = true
+
+[[files]]
+file = "mods/dragon-mounts-legacy.pw.toml"
+hash = "65c56d003dda6e2c6561edb31e058249d186bc220711ba8874cadfe67a365fe8"
+metafile = true
+
+[[files]]
 file = "mods/draw-bridge.pw.toml"
 hash = "c52b970f9a3d90e1a00deb4dd160a3bb5cd0a10f2dd66c938e90621e58ac4d0f"
 metafile = true
@@ -190,8 +205,23 @@ hash = "da22e4820849d67c470d2df2b97b57ac43df4207c13c2064647570d98d16f7f9"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "dd437802527b851399f13e40accc0b499e58210906fdde93a0c92c4394bc1a92"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "7784bbe87c156cdc99cce7ea79cc2d7d96580f716848e33ab215a31351625a61"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "ddf78c2dd4e3cfde08d9f27c7bf67456c7b549019f9a98ec504217441e89475f"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "fb20bbe40ab9e760c5c60e8ddda08a525ed905aca4a45da4766e70a578a74901"
 metafile = true
 
 [[files]]
@@ -315,6 +345,16 @@ hash = "54a05a04fc4c2af06ed779b5269cd001ce8188e825ac11bd8895551d3863285b"
 metafile = true
 
 [[files]]
+file = "mods/kleiders-custom-renderer-api.pw.toml"
+hash = "8ad30a65f30bab261d4654e06ac236ec0fc357b59591d9b4ee1b8524183f615f"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "157d2e80198dfee4d01578d9e034eb46b2089d1cc70e03e0d571046ab9d12579"
+metafile = true
+
+[[files]]
 file = "mods/libx.pw.toml"
 hash = "1b8d63d8a0062dc9fcccc500c7c1295f84df418f98efcf098bbf3757ee9ffb98"
 metafile = true
@@ -337,6 +377,16 @@ metafile = true
 [[files]]
 file = "mods/metal-barrels.pw.toml"
 hash = "b33cdd8582c6543eadb6797f013301227453877e8b46129343638240162a23c2"
+metafile = true
+
+[[files]]
+file = "mods/mine-mine-no-mi-haki-bar.pw.toml"
+hash = "0b3656e03faf5fec4a3ec1d032166efcb73930c49ffcf97d216f7df5a3509dba"
+metafile = true
+
+[[files]]
+file = "mods/mine-mine-no-mi.pw.toml"
+hash = "24ab146abedec179239bae738719959d370123cff909f7d8bf32fe0ccfc01d20"
 metafile = true
 
 [[files]]
@@ -375,6 +425,26 @@ hash = "a7a51313e39f2dcc3bbfc2a9cc6b0920d25b7a39e989479787a6d4aed752d6e9"
 metafile = true
 
 [[files]]
+file = "mods/naruto-animations.pw.toml"
+hash = "2d1b258c872e68c1b78e498f15e427832b11b8dfb1b38080c45749ab9b84d0c6"
+metafile = true
+
+[[files]]
+file = "mods/narutomod.pw.toml"
+hash = "eea28e5354384c5597ba7a42624ba4ad0552f9e414b736dc3cb482deeb0b5fb3"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "cca1d003d1f4ff138be6a04cedac1f97e1f4a85862d5958d97aed82e951a78ff"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "0eb1a0ef1cb415e9a5d380b41e74916378c8f6e7066102b9f2e5117b54653319"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "c7c75962254111faa0101af9c96a72fc9807a1082fc7190e0c1df3a5f3573538"
 metafile = true
@@ -387,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-wands.pw.toml"
 hash = "7b38ec4cb96a641b6eac4b9158bb75360594823c970d231a51cd0fc236dc9c73"
+metafile = true
+
+[[files]]
+file = "mods/obfuscate.pw.toml"
+hash = "0f17b3547f35c092a7bcfba6e4cdaeb12ea1b0b5828c660516bf3148ab44b7a2"
 metafile = true
 
 [[files]]
@@ -410,6 +485,11 @@ hash = "adfaa4397b987d1589056f24fbe6c80d79c56a2a828d151c5a927c60d79a920a"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "87b298778512ed9883d3a0f9d0da5dee15b2dd418e9f7d25104cdb0a7d13ce8e"
+metafile = true
+
+[[files]]
 file = "mods/performant.pw.toml"
 hash = "389a1af91d726208ed1ec4bc686c79cf6d1b1ce6dab115c6113f201370b8287c"
 metafile = true
@@ -420,13 +500,23 @@ hash = "e10b8b1700c4c94c4ae3ebf2042bf5dbb85d45cb23ff8e46da001ed27114a553"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "8909f6b209fce7c52d625bc9ad4cb5b2116e4823dd75a71e9a8f5a546d1d0f94"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
-hash = "7bc5dcfd4ea6e021c501c22b70df4c9ef64ddfcfa82646ba0639f5225178d905"
+hash = "8b80951a6a78f26b1e0ba54d1193cfc63743001fc4f105b30ca5bc4f67dcb05b"
 metafile = true
 
 [[files]]
 file = "mods/prefab.pw.toml"
 hash = "3cea9b7591f08eafeaa1a44b8f43c15636e2ba2daf2f03ceb38f47ab3c74b9b8"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "4437b60017c0598182f1c25a7b50dd201f34c7ea98de1876fb4617fc76cce69a"
 metafile = true
 
 [[files]]
@@ -510,6 +600,11 @@ hash = "6422252c1f9b5010fa16d37994a8de436d643549052761c7fbe9a61e22b5e126"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "545b6c0541bd2bd1e08f9d0938d5b0b755a3a07b007bb911662e876951b7afd8"
+metafile = true
+
+[[files]]
 file = "mods/sao-plus.pw.toml"
 hash = "5f2e7362703e6fb3239eaa0f8dee7349e5768fae0a2505b1dc9e74c42944fcef"
 metafile = true
@@ -527,6 +622,16 @@ metafile = true
 [[files]]
 file = "mods/sky-villages-forge.pw.toml"
 hash = "fa7a4181bb2461e5afefbe83299d21dce293e8b3f963fae281d0b67a65264275"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3f7bdf144b09082021c01cce53753e045f7d2077912057c4f547f3cfe5854e81"
+metafile = true
+
+[[files]]
+file = "mods/stalwart-dungeons.pw.toml"
+hash = "61f06197bb91e362998a66912ae4b8975c10b9ea9909e9d912d588641b1da11b"
 metafile = true
 
 [[files]]
@@ -615,6 +720,11 @@ hash = "b3047288ef6f2e5a37ea70ba27d388cf22db535edb1901aee19f322b1f67e9e7"
 metafile = true
 
 [[files]]
+file = "mods/unusual-end.pw.toml"
+hash = "9a1a54dbf7dad7222a04eba3a52f8954954aef57cf06a267b49de80b573ed6dc"
+metafile = true
+
+[[files]]
 file = "mods/vanillafoodpantry-mod.pw.toml"
 hash = "1290ddbda7c76a549cf27e43516b86c70be638e21f657d1d9432364e444953c1"
 metafile = true
@@ -627,6 +737,31 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d3631df0e5d46e75045a781efe2eda7ccbadc70c775dea298f6f5516e4f4dd74"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.pw.toml"
+hash = "079d56336fdf5fd836e31f067fe0cc1c38e8465274aea6e5ebed53397560513b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "def6e1aeb1416c41503a391973b9fde650eda84204178f90a99faa89fe9bfb83"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "ad6234ad0771472bd5bf582a5ddd737d9cb55fd6f364397eae3940b10574342d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "8202f215a2400426059f5f9f488ef8a842d01d39000580c51581eb240549e276"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "5b83ab5539365be913d72985d9318c4f4b3cb39f074b8faa5c2180658258b363"
 metafile = true
 
 [[files]]
