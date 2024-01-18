@@ -680,11 +680,6 @@ hash = "a3621594125d58ad2af30a2d2c721ca43ce504c251e9dce3022ae427fc2cd73a"
 metafile = true
 
 [[files]]
-file = "mods/threecore.pw.toml"
-hash = "eaf0190f49621b144e212c954edb53daf218af63cb7ac277e96718a932f54c24"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "1dda287b20d9afec27864e9625dc7c4017f66ece39e117c10dcd97edc42c68a3"
 metafile = true
