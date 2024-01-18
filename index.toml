@@ -170,6 +170,11 @@ hash = "caa23ca2f7ab8da0769d5b7ce1716a75183b2771e7f167007ac545bbf00e92b2"
 metafile = true
 
 [[files]]
+file = "mods/dragon-ball-mod-1-16-5.pw.toml"
+hash = "5317eef6af0cfe61802242cc24d00956c7da30c62a1e5042df3972c56303cf96"
+metafile = true
+
+[[files]]
 file = "mods/dragon-mounts-legacy.pw.toml"
 hash = "65c56d003dda6e2c6561edb31e058249d186bc220711ba8874cadfe67a365fe8"
 metafile = true
@@ -222,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "37b9b71a2ae4d1cae29c27830bbe809c36601f066f48fb71d822f98ad82d0c1e"
+metafile = true
+
+[[files]]
+file = "mods/fishyhard-fhcore.pw.toml"
+hash = "1488b3b1f9c43ebf2120e6175d3ee19a199108fdde38b6efc0f7004ca8f72f6e"
 metafile = true
 
 [[files]]
@@ -425,6 +435,16 @@ hash = "a7a51313e39f2dcc3bbfc2a9cc6b0920d25b7a39e989479787a6d4aed752d6e9"
 metafile = true
 
 [[files]]
+file = "mods/naruto-animations.pw.toml"
+hash = "2d1b258c872e68c1b78e498f15e427832b11b8dfb1b38080c45749ab9b84d0c6"
+metafile = true
+
+[[files]]
+file = "mods/narutomod.pw.toml"
+hash = "eea28e5354384c5597ba7a42624ba4ad0552f9e414b736dc3cb482deeb0b5fb3"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "cca1d003d1f4ff138be6a04cedac1f97e1f4a85862d5958d97aed82e951a78ff"
 metafile = true
@@ -447,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-wands.pw.toml"
 hash = "7b38ec4cb96a641b6eac4b9158bb75360594823c970d231a51cd0fc236dc9c73"
+metafile = true
+
+[[files]]
+file = "mods/obfuscate.pw.toml"
+hash = "0f17b3547f35c092a7bcfba6e4cdaeb12ea1b0b5828c660516bf3148ab44b7a2"
 metafile = true
 
 [[files]]

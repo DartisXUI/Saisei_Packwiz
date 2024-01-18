@@ -1,0 +1,13 @@
+name = "FishyHard FHCore"
+filename = "FishyHard FHCore 1.16.5 1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "019ba1460a1757e38104c3d3faadc0be45cfc80a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3831793
+project-id = 628488

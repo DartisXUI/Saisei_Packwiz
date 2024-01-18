@@ -1,0 +1,13 @@
+name = "Naruto Shippuden"
+filename = "Naruto-Shippuden-Beta-2.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8335bf5cdcbcd47def31d1fcbd79ff554c48956"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4663884
+project-id = 474136
