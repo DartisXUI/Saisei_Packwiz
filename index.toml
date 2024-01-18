@@ -285,6 +285,11 @@ hash = "802cba450a7fbba6009d691b9d94a05149e4e069c9dac2c6458bd76369440fbc"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "fc46255cbbd9b2e2c4de330ff7c9d12a28425550be24abb26aedee8ea20347a3"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tweaks-renewed.pw.toml"
 hash = "6d768075542b20801d327c38bc13096edc8b517b5c969ca887b456ac698d8573"
 metafile = true
@@ -652,6 +657,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "1dda287b20d9afec27864e9625dc7c4017f66ece39e117c10dcd97edc42c68a3"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "435c9a3f01e5b7669eea3ad8b560922d8525d50ad6b437d8914d8e293a67bf61"
 metafile = true
 
 [[files]]
