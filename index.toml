@@ -230,6 +230,11 @@ hash = "37b9b71a2ae4d1cae29c27830bbe809c36601f066f48fb71d822f98ad82d0c1e"
 metafile = true
 
 [[files]]
+file = "mods/fishyhard-fhcore.pw.toml"
+hash = "1488b3b1f9c43ebf2120e6175d3ee19a199108fdde38b6efc0f7004ca8f72f6e"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "d83366ef8ecfcbfdaa6bc00748c854a4497b0665e0d253b3199012661d4408c5"
 metafile = true
