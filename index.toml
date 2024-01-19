@@ -170,11 +170,6 @@ hash = "caa23ca2f7ab8da0769d5b7ce1716a75183b2771e7f167007ac545bbf00e92b2"
 metafile = true
 
 [[files]]
-file = "mods/dragon-ball-mod-1-16-5.pw.toml"
-hash = "5317eef6af0cfe61802242cc24d00956c7da30c62a1e5042df3972c56303cf96"
-metafile = true
-
-[[files]]
 file = "mods/dragon-mounts-legacy.pw.toml"
 hash = "65c56d003dda6e2c6561edb31e058249d186bc220711ba8874cadfe67a365fe8"
 metafile = true
