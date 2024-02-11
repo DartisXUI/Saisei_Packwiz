@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3aff473c4bf2e5133793d6028bc7c6de57359b20ebe83af08832a1eda08babd3"
+hash = "ff92a5ec91aef6655e13bcdf2d6246e701e0e8cf743ec0f69a04a84d6b0b5635"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleiders-custom-renderer-api.pw.toml"
-hash = "8ad30a65f30bab261d4654e06ac236ec0fc357b59591d9b4ee1b8524183f615f"
+hash = "4998c375684025c99c783389605af8ebc59d4b662cbeaad2f9e4671328f776d2"
 metafile = true
 
 [[files]]
