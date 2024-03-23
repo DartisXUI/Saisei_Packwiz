@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "84cb34b4e26b9755e08e1479e5cd6f0e6b1a9937a7d972810cc5a73148781068"
+hash = "9f7b30ba4cac4e9b668fd1bd54ce57cdf9e3f3aaf81d23195a330b9a4162e15f"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "bc41332a54157c3753a817a7e4a2c77653bba74117d04f7d7d2345db6ca6ded1"
+hash = "ec0ac2d8c3c9f9c2747432e846cd6709fb95e12404257d470890f93580f71495"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "6f5ea2eefd04825c729e93f8ee1dacc223b1d5a59218e0f3d0c9515a8323278a"
+hash = "6bb893e32bac77a12131dc0bdf493a52676e66452afd4ae2f289ed4aa7673421"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "435c9a3f01e5b7669eea3ad8b560922d8525d50ad6b437d8914d8e293a67bf61"
+hash = "04ebb9519eb196229abf407abe35567f8dd42241abf16e3c185480d71912b1da"
 metafile = true
 
 [[files]]
