@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
-hash = "fc46255cbbd9b2e2c4de330ff7c9d12a28425550be24abb26aedee8ea20347a3"
+hash = "5952265c8a3da43c28654ca5e92cf56575f705547a33f706c39d84ab4c057570"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "6bb893e32bac77a12131dc0bdf493a52676e66452afd4ae2f289ed4aa7673421"
+hash = "a72158e9e5097394b74262435d7c616b1f7a80c2344533e22f574f5e26ae20a3"
 metafile = true
 
 [[files]]
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
-hash = "aab4792582ae57838156596ae59c9732454416c9550bbcd6bb40fcb14be8d851"
+hash = "d3e8921169001b0f47005f911b86adde5e1023e61a701dea6e0545d69890d781"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/u-team-core.pw.toml"
-hash = "55551092b306a1cf01d0c7251fde26977e58853629f582e8f1aa8a797b6eca0e"
+hash = "b322c5e85822b7abeeaa2f8aa5fee90c172251df9f4b51002d48b91e0e310803"
 metafile = true
 
 [[files]]
