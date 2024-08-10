@@ -1,13 +1,13 @@
 name = "Mine Mine no Mi - Haki Bar"
-filename = "hakibar-1.16.5-1.7.jar"
+filename = "hakibar-1.16.5-1.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "83750037ae78a9a4297f3da96634e5f0aa8f0919"
+hash = "b9aed4ae6c345eaacafc82f582329eee4a6bb0ff"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4651738
+file-id = 5556163
 project-id = 650542
