@@ -60,11 +60,6 @@ file = "mods/bwncr-1.16.5-3.10.16.jar"
 hash = "81174c8f71e224d1fefa9eedc439290a02db1b016aea1b5373ebffb283332e4f"
 
 [[files]]
-file = "mods/capsule.pw.toml"
-hash = "46de7b6ab21e993368ca162241a96dc7a05e9968326027e1fae207b2edc731c3"
-metafile = true
-
-[[files]]
 file = "mods/carrots-lib.pw.toml"
 hash = "5a7a1d4acae808853db2fc3431a7147ec976d017ad9e9be09773a5a80f4e5ea8"
 metafile = true
