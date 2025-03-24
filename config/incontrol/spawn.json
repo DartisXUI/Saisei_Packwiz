@@ -1,0 +1,18 @@
+[
+  {
+    "hostile": true,
+	"dimension": 0,
+	"onjoin": true,
+	"result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mod": "mha",
+    "mincount": {
+      "amount": 2,
+      "mod": "mha",
+      "perchunk": true
+    },
+    "result": "deny"
+  }
+]

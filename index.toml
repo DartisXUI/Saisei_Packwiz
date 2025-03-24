@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/incontrol/spawn.json"
+hash = "be92ee0fe33faeb3b8a1c72810d273bd2c2d795a00b7c069f8383a0583ea1e16"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "dfe69d147803c731eed0231f62c8078c858c5d4a9f5e5e5cdc14d91d1f99afea"
 metafile = true
@@ -58,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/bwncr-1.16.5-3.10.16.jar"
 hash = "81174c8f71e224d1fefa9eedc439290a02db1b016aea1b5373ebffb283332e4f"
+
+[[files]]
+file = "mods/capsule.pw.toml"
+hash = "46de7b6ab21e993368ca162241a96dc7a05e9968326027e1fae207b2edc731c3"
+metafile = true
 
 [[files]]
 file = "mods/carrots-lib.pw.toml"
@@ -404,6 +413,11 @@ hash = "126e8d03158d964fa2f2954c8b47341213a0f154e505b7d0cc3f62c9b4e91261"
 metafile = true
 
 [[files]]
+file = "mods/my-hero-academia.pw.toml"
+hash = "01d6b283929766257f38419989492c2cbb49d9b3c79797afa0ce0b377d848108"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agradditions.pw.toml"
 hash = "cf53f465b794bd203569f69f068fa3265d03fb612a00f69ac8f70d55507ece9a"
 metafile = true
@@ -596,6 +610,11 @@ metafile = true
 [[files]]
 file = "mods/scorge.pw.toml"
 hash = "b1271df7c3a0956dbc1e56ded6eba90510bd4ce5b6d2e5ed17982f5b3678f06d"
+metafile = true
+
+[[files]]
+file = "mods/second-overworld.pw.toml"
+hash = "c0be9c1241c83c2c9fd86516c8f1841311146a87b14ba53f5493a0530d84e47d"
 metafile = true
 
 [[files]]
