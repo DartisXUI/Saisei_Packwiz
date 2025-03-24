@@ -1,7 +1,7 @@
 [
   {
     "hostile": true,
-	"dimension": 0,
+	"dimension": "minecraft:overworld",
 	"onjoin": true,
 	"result": "deny"
   },

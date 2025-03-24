@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "be92ee0fe33faeb3b8a1c72810d273bd2c2d795a00b7c069f8383a0583ea1e16"
+hash = "5711282ec139d97b1f80c22932695981bbe7a7b6380e757c601e71e10b3c1fb7"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
