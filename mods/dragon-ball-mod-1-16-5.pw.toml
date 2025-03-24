@@ -1,0 +1,13 @@
+name = "Dragon Ball Z"
+filename = "dbz.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9da3a8d8c3ab80cc6e443d0c65491c1e396d2ddc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5302570
+project-id = 886263

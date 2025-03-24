@@ -1,0 +1,13 @@
+name = "Solo Leveling: Reincarnation Awakening"
+filename = "Solo Leveling Reincarnation Awakening-1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b38d411cd6a93cb298c2ade500875a07dd603a68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3707248
+project-id = 596581
