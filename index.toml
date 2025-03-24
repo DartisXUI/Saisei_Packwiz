@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/incontrol/spawn.json"
-hash = "e8059874d741909926ea4d2f8280e519610dee550e7ce5436aa2b07157b1cc76"
-
-[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "dfe69d147803c731eed0231f62c8078c858c5d4a9f5e5e5cdc14d91d1f99afea"
 metafile = true
@@ -45,11 +41,6 @@ hash = "9b2088287d126347cb44a539b7104462e0a4aaa0b871577ca13902398f174f52"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "83dd1ce64df9a012930da1ff2d80cc4f2a68af72ec570f3232caf54d25858d46"
-metafile = true
-
-[[files]]
 file = "mods/basic-end-ores.pw.toml"
 hash = "19c0c5d4c3dd13a0541bd279ddc832e47f860692d496126a697b94a87d17b607"
 metafile = true
@@ -63,6 +54,10 @@ metafile = true
 file = "mods/better-advancements.pw.toml"
 hash = "8f28716ece15f4eef1318e9134ed2356c7adf986a65a6c702a0c994a669444bd"
 metafile = true
+
+[[files]]
+file = "mods/bwncr-1.16.5-3.10.16.jar"
+hash = "81174c8f71e224d1fefa9eedc439290a02db1b016aea1b5373ebffb283332e4f"
 
 [[files]]
 file = "mods/capsule.pw.toml"
@@ -405,18 +400,12 @@ hash = "2a55fed384c639eaf139049a31ca3378e9a971a56053fc25cc1ef071ded7add7"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "d3e8921169001b0f47005f911b86adde5e1023e61a701dea6e0545d69890d781"
-metafile = true
+file = "mods/moreoverlays-1.18.20-mc1.16.5.jar"
+hash = "e16a4db6368e6966746caad8579ff0edf787afb4b27e620f42492e56ebe0647e"
 
 [[files]]
 file = "mods/morph.pw.toml"
 hash = "126e8d03158d964fa2f2954c8b47341213a0f154e505b7d0cc3f62c9b4e91261"
-metafile = true
-
-[[files]]
-file = "mods/my-hero-academia.pw.toml"
-hash = "01d6b283929766257f38419989492c2cbb49d9b3c79797afa0ce0b377d848108"
 metafile = true
 
 [[files]]
@@ -491,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "520087b87484cfddaf5348b47121eaf45c334744742d441ddd9b1a639ea5bc9e"
+hash = "e72beef141b0156fed4fc77cdd7190f4852978a9261c6eab25ac436e787f2c16"
 metafile = true
 
 [[files]]
