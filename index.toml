@@ -762,8 +762,3 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "a71342e2c54d9ec3ff4634118ac7e978c65a8bfdcee93f51ddbc4f0a5780dd62"
 metafile = true
-
-[[files]]
-file = "solo-leveling-reincarnation-awakening.pw.toml"
-hash = "606988f0c4bf724999b6a68b3a35727a09f60273d618374457b22e74ab63021b"
-metafile = true
