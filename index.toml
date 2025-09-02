@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine-mine-no-mi.pw.toml"
-hash = "dc7952db3a408da1c8da1f46c6f5089d7b8e63e04decb0970ea0a3c73c8ee913"
+hash = "61daf3611149195e5ac284242e963c129b379e4c07106ad72554ddb0ca7e96f1"
 metafile = true
 
 [[files]]
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "8450408e866fecbe5862149b5105943cabda2325733b9634738842f12d0fd756"
+hash = "e72beef141b0156fed4fc77cdd7190f4852978a9261c6eab25ac436e787f2c16"
 metafile = true
 
 [[files]]

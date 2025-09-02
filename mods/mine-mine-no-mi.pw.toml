@@ -1,13 +1,13 @@
 name = "Mine Mine no Mi"
-filename = "mine-mine-no-mi-1.16.5-0.10.6.jar"
+filename = "mine-mine-no-mi-1.16.5-0.10.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cf744d514de3f10ce497283e842648bbbaeac012"
+hash = "e9fc48023c06886b8efe6873d43fecaa15ddfd7c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6558607
+file-id = 6835601
 project-id = 78726
